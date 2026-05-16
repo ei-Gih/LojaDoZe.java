@@ -76,22 +76,22 @@ O projeto utiliza vetores paralelos, onde cada posição dos arrays representa o
 
 ## 📂 Estrutura do Projeto
 
-📁 mini-sistema-login
- ┣ 📄 Main.java
- ┗ 📄 README.md
+📁 mini-sistema-login<br>
+ ┣ 📄 Main.java<br>
+ ┗ 📄 README.md<br>
 
 
 ## ▶️ Como Executar
-1️⃣ Clone o repositório
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-2️⃣ Acesse a pasta
-cd mini-sistema-login
-3️⃣ Compile o projeto
-javac Main.java
-4️⃣ Execute o programa
-java Main
+<br>1️⃣ Clone o repositório
+<br>git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+<br>2️⃣ Acesse a pasta
+<br>cd mini-sistema-login
+<br>3️⃣ Compile o projeto
+<br>javac Main.java
+<br>4️⃣ Execute o programa
+<br>java Main
 
-##👩‍💻 Autora
+## 👩‍💻 Autora
 
 Desenvolvido por Gisele Paula 💜
 
